@@ -24,7 +24,7 @@ source bin/envsetup.sh
 
 ## 3. Các lệnh chuyển đổi model ONNX sang QNN binary
 
-### Lệnh cơ bản (YOLOv8/YOLOv11)
+### Mẫu (YOLOv8)
 
 ```bash
 python convert.py -m <path_to_onnx> -i images -s 1,3,640,640
