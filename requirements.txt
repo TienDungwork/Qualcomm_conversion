@@ -1,0 +1,5 @@
+tensorflow==2.10.1
+tflite==2.3.0
+onnx==1.16.1
+onnxruntime==1.18.0
+onnxsim==0.4.36
