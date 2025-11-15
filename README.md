@@ -48,7 +48,7 @@ python convert.py -m <path_to_onnx> -i images -s 1,3,640,640
 ### Ví dụ
 
 ```bash
-python convert.py \
+python convert_model.py \
     -m yolov8n.onnx \
     -i images \
     -s 1,3,640,640 \
